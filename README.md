@@ -9,7 +9,7 @@ Tasks
 * [ ] https://github.com/niteoweb/ostasks/issues/6
 * [ ] https://github.com/niteoweb/Makefile/issues/1
 * [ ] https://github.com/niteoweb/pyramid_heroku/issues/11
-* [ ] https://github.com/woocart/localizations/issues/40
+* [x] https://github.com/woocart/localizations/issues/40
 * [ ] https://github.com/woocart/cartfront/issues/34
 * [ ] https://github.com/niteoweb/ostasks/issues/6
 * [x] https://github.com/niteoweb/pyramid_heroku/issues/13

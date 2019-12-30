@@ -28,3 +28,4 @@ Tasks
 * [x] [@JanLikar]https://github.com/niteoweb/flake8-commitref/issues/1
 * [x] [@spedy] https://github.com/niteoweb/ostasks/issues/3
 * [x] [@JanLikar]https://github.com/niteoweb/ostasks/issues/4
+* [x] https://github.com/niteoweb/pyramid_mixpanel/issues/22
